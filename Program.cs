@@ -2,7 +2,7 @@
 // Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. 
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами
 
-string[] array1 = new string[5] { "575", "663", "bye", "world", "git" };
+string[] array1 = new string[5] { "585", "263", "bye", "hello", "git" };
 string[] array2 = new string[array1.Length];
 
 void SecondArrayForIF(string[] array1, string[] array2)
